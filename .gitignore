@@ -9,7 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.txt
 appsettings.json
 appsettings.Development.json
 
@@ -19,7 +18,7 @@ appsettings.Development.json
 # Mono auto generated files
 mono_crash.*
 
-# Build results
+# Build resultss
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
